@@ -8,7 +8,7 @@ public class Solution {
 
 
     public static void main(String[] args) {
-        String a = "afdfewrewvcxwe329423fdsfsddf";
+        String a = "afdfewrewvcxwe329423fdsfsddf111111";
         long time = System.currentTimeMillis();
         //System.out.println(generateParenthesis2(15).toString());
 //        System.out.println(divide(-2147483648,
