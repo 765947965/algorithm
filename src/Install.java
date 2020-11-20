@@ -10,16 +10,16 @@ public class Install {
     }
 
     private static void installARC() {
-        String[] ips = new String[]{"192.168.72.26", "192.168.72.30", "192.168.72.35", "192.168.4.241",
+        String[] ips = new String[]{"192.168.72.26", "192.168.72.30", "192.168.72.35", "192.168.72.40",
                 "192.168.72.28", "192.168.72.33", "192.168.72.32", "192.168.72.34", "192.168.4.214", "192.168.72.29",
                 "192.168.72.31"};
-        String path = "C:\\Users\\76594\\Desktop\\1\\eastArc\\release\\eastArc_126.apk";
+        String path = "C:\\Users\\76594\\Desktop\\1\\eastArc\\release\\eastArc_127.apk";
         installValue(ips, path);
     }
 
     private static void installBD() {
-        String[] ips = new String[]{"192.168.160.91", "192.168.4.106", "192.168.4.53"};
-        String path = "C:\\Users\\76594\\Desktop\\1\\eastBaidu\\release\\eastBaidu_126.apk";
+        String[] ips = new String[]{"192.168.72.39", "192.168.4.106", "192.168.72.38"};
+        String path = "C:\\Users\\76594\\Desktop\\1\\eastBaidu\\release\\eastBaidu_127.apk";
         installValue(ips, path);
     }
 
